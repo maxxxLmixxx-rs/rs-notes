@@ -11,10 +11,14 @@
 ------
 *  ###  2.1 Semantic tags
     Electronic books
+    
     Accessibility [visually impaired]
+    
     SEO
 *  ###  2.2 Multimedia alternatives
     "alt" attribute -- SEO
+    
     Video: captions <track>
+    
     Audio: short explanation
 *  ###  2.3 BEM
